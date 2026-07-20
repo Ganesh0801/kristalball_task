@@ -1,0 +1,11 @@
+# Node modules dependencies
+node_modules/
+
+# Local configuration and secret environment variables
+.env
+.env.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
